@@ -1,0 +1,456 @@
+Index: .idea/codeStyles/Project.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/codeStyles/Project.xml	(date 1579805464275)
++++ .idea/codeStyles/Project.xml	(date 1579805464275)
+@@ -0,0 +1,17 @@
++<component name="ProjectCodeStyleConfiguration">
++  <code_scheme name="Project" version="173">
++    <JetCodeStyleSettings>
++      <option name="CONTINUATION_INDENT_FOR_EXPRESSION_BODIES" value="true" />
++      <option name="CONTINUATION_INDENT_FOR_CHAINED_CALLS" value="true" />
++      <option name="CONTINUATION_INDENT_IN_ELVIS" value="true" />
++      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
++    </JetCodeStyleSettings>
++    <codeStyleSettings language="kotlin">
++      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
++      <option name="CATCH_ON_NEW_LINE" value="true" />
++      <option name="FINALLY_ON_NEW_LINE" value="true" />
++      <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
++      <option name="WRAP_FIRST_METHOD_IN_CALL_CHAIN" value="true" />
++    </codeStyleSettings>
++  </code_scheme>
++</component>
+\ No newline at end of file
+Index: .idea/codeStyles/codeStyleConfig.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/codeStyles/codeStyleConfig.xml	(date 1579785792181)
++++ .idea/codeStyles/codeStyleConfig.xml	(date 1579785792181)
+@@ -0,0 +1,5 @@
++<component name="ProjectCodeStyleConfiguration">
++  <state>
++    <option name="USE_PER_PROJECT_SETTINGS" value="true" />
++  </state>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/KotlinJavaRuntime.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/KotlinJavaRuntime.xml	(date 1579785792340)
++++ .idea/libraries/KotlinJavaRuntime.xml	(date 1579785792340)
+@@ -0,0 +1,19 @@
++<component name="libraryTable">
++  <library name="KotlinJavaRuntime">
++    <CLASSES>
++      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar!/" />
++      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar!/" />
++      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test.jar!/" />
++      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk7.jar!/" />
++      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk8.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/" />
++      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect-sources.jar!/" />
++      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test-sources.jar!/" />
++      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk7-sources.jar!/" />
++      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk8-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.gitignore	(date 1579805506370)
++++ .idea/.gitignore	(date 1579805506370)
+@@ -0,0 +1,2 @@
++# Default ignored files
++/workspace.xml
+\ No newline at end of file
+Index: pierwyj ewa7.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- pierwyj ewa7.iml	(date 1579805266072)
++++ pierwyj ewa7.iml	(date 1579805266072)
+@@ -0,0 +1,17 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output url="file://$MODULE_DIR$/out/production/pierwyj ewa7" />
++    <output-test url="file://$MODULE_DIR$/out/test/pierwyj ewa7" />
++    <exclude-output />
++    <javadoc-paths>
++      <root url="file:///media/orzelek77ga/92E27345E2732D1B/dane z ubuntu lapek leny/orzelek77/Pobrane/ONE TOUCH EVO7 HD [E710] Android 4.1.1/Log" />
++    </javadoc-paths>
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="library" exported="" name="KotlinJavaRuntime" level="project" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1579805516598)
++++ .idea/vcs.xml	(date 1579805516598)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1579785791663)
++++ .idea/misc.xml	(date 1579785791663)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: module_pierwyj_ewa7.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- module_pierwyj_ewa7.xml	(date 1579805605526)
++++ module_pierwyj_ewa7.xml	(date 1579805605526)
+@@ -0,0 +1,82 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project name="module_pierwyj_ewa7" default="compile.module.pierwyj_ewa7">
++  <dirname property="module.pierwyj_ewa7.basedir" file="${ant.file.module_pierwyj_ewa7}"/>
++  
++  <property name="module.jdk.home.pierwyj_ewa7" value="${project.jdk.home}"/>
++  <property name="module.jdk.bin.pierwyj_ewa7" value="${project.jdk.bin}"/>
++  <property name="module.jdk.classpath.pierwyj_ewa7" value="${project.jdk.classpath}"/>
++  
++  <property name="compiler.args.pierwyj_ewa7" value="-encoding UTF-8 -source 11 -target 11 ${compiler.args}"/>
++  
++  <property name="pierwyj_ewa7.output.dir" value="${module.pierwyj_ewa7.basedir}/out/production/pierwyj ewa7"/>
++  <property name="pierwyj_ewa7.testoutput.dir" value="${module.pierwyj_ewa7.basedir}/out/test/pierwyj ewa7"/>
++  
++  <path id="pierwyj_ewa7.module.bootclasspath">
++    <!-- Paths to be included in compilation bootclasspath -->
++  </path>
++  
++  <path id="pierwyj_ewa7.module.production.classpath">
++    <path refid="${module.jdk.classpath.pierwyj_ewa7}"/>
++    <path refid="library.kotlinjavaruntime.classpath"/>
++  </path>
++  
++  <path id="pierwyj_ewa7.runtime.production.module.classpath">
++    <pathelement location="${pierwyj_ewa7.output.dir}"/>
++    <path refid="library.kotlinjavaruntime.classpath"/>
++  </path>
++  
++  <path id="pierwyj_ewa7.module.classpath">
++    <path refid="${module.jdk.classpath.pierwyj_ewa7}"/>
++    <pathelement location="${pierwyj_ewa7.output.dir}"/>
++    <path refid="library.kotlinjavaruntime.classpath"/>
++  </path>
++  
++  <path id="pierwyj_ewa7.runtime.module.classpath">
++    <pathelement location="${pierwyj_ewa7.testoutput.dir}"/>
++    <pathelement location="${pierwyj_ewa7.output.dir}"/>
++    <path refid="library.kotlinjavaruntime.classpath"/>
++  </path>
++  
++  
++  <patternset id="excluded.from.module.pierwyj_ewa7">
++    <patternset refid="ignored.files"/>
++  </patternset>
++  
++  <patternset id="excluded.from.compilation.pierwyj_ewa7">
++    <patternset refid="excluded.from.module.pierwyj_ewa7"/>
++  </patternset>
++  
++  <path id="pierwyj_ewa7.module.sourcepath">
++    <dirset dir="${module.pierwyj_ewa7.basedir}">
++      <include name="src"/>
++    </dirset>
++  </path>
++  
++  
++  <target name="compile.module.pierwyj_ewa7" depends="compile.module.pierwyj_ewa7.production,compile.module.pierwyj_ewa7.tests" description="Compile module pierwyj ewa7"/>
++  
++  <target name="compile.module.pierwyj_ewa7.production" depends="register.custom.compilers" description="Compile module pierwyj ewa7; production classes">
++    <mkdir dir="${pierwyj_ewa7.output.dir}"/>
++    <javac2 destdir="${pierwyj_ewa7.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.pierwyj_ewa7}/javac">
++      <compilerarg line="${compiler.args.pierwyj_ewa7}"/>
++      <bootclasspath refid="pierwyj_ewa7.module.bootclasspath"/>
++      <classpath refid="pierwyj_ewa7.module.production.classpath"/>
++      <src refid="pierwyj_ewa7.module.sourcepath"/>
++      <patternset refid="excluded.from.compilation.pierwyj_ewa7"/>
++    </javac2>
++    
++    <copy todir="${pierwyj_ewa7.output.dir}">
++      <fileset dir="${module.pierwyj_ewa7.basedir}/src">
++        <patternset refid="compiler.resources"/>
++        <type type="file"/>
++      </fileset>
++    </copy>
++  </target>
++  
++  <target name="compile.module.pierwyj_ewa7.tests" depends="register.custom.compilers,compile.module.pierwyj_ewa7.production" description="compile module pierwyj ewa7; test classes" unless="skip.tests"/>
++  
++  <target name="clean.module.pierwyj_ewa7" description="cleanup module">
++    <delete dir="${pierwyj_ewa7.output.dir}"/>
++    <delete dir="${pierwyj_ewa7.testoutput.dir}"/>
++  </target>
++</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1579785791803)
++++ .idea/modules.xml	(date 1579785791803)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/pierwyj ewa7.iml" filepath="$PROJECT_DIR$/pierwyj ewa7.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: pierwyj_ewa7.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- pierwyj_ewa7.properties	(date 1579805605529)
++++ pierwyj_ewa7.properties	(date 1579805605529)
+@@ -0,0 +1,4 @@
++path.variable.kotlin_bundled=/snap/intellij-idea-community/197/plugins/Kotlin/kotlinc
++path.variable.maven_repository=/home/orzelek77ga/.m2/repository
++jdk.home.11=/usr/lib/jvm/java-11-openjdk-amd64
++javac2.instrumentation.includeJavaRuntime=false
+\ No newline at end of file
+Index: .idea/kotlinc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/kotlinc.xml	(date 1579785791914)
++++ .idea/kotlinc.xml	(date 1579785791914)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Kotlin2JvmCompilerArguments">
++    <option name="jvmTarget" value="1.8" />
++  </component>
++</project>
+\ No newline at end of file
+Index: pierwyj_ewa7.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- pierwyj_ewa7.xml	(date 1579805605526)
++++ pierwyj_ewa7.xml	(date 1579805605526)
+@@ -0,0 +1,176 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project name="pierwyj_ewa7" default="all">
++  
++  
++  <property file="pierwyj_ewa7.properties"/>
++  <!-- Uncomment the following property if no tests compilation is needed -->
++  <!-- 
++  <property name="skip.tests" value="true"/>
++   -->
++  
++  <!-- Compiler options -->
++  
++  <property name="compiler.debug" value="on"/>
++  <property name="compiler.generate.no.warnings" value="off"/>
++  <property name="compiler.args" value=""/>
++  <property name="compiler.max.memory" value="700m"/>
++  <patternset id="ignored.files">
++    <exclude name="**/*.hprof/**"/>
++    <exclude name="**/*.pyc/**"/>
++    <exclude name="**/*.pyo/**"/>
++    <exclude name="**/*.rbc/**"/>
++    <exclude name="**/*.yarb/**"/>
++    <exclude name="**/*~/**"/>
++    <exclude name="**/.DS_Store/**"/>
++    <exclude name="**/.git/**"/>
++    <exclude name="**/.hg/**"/>
++    <exclude name="**/.svn/**"/>
++    <exclude name="**/CVS/**"/>
++    <exclude name="**/__pycache__/**"/>
++    <exclude name="**/_svn/**"/>
++    <exclude name="**/vssver.scc/**"/>
++    <exclude name="**/vssver2.scc/**"/>
++  </patternset>
++  <patternset id="library.patterns">
++    <include name="*.war"/>
++    <include name="*.swc"/>
++    <include name="*.zip"/>
++    <include name="*.egg"/>
++    <include name="*.ane"/>
++    <include name="*.jar"/>
++    <include name="*.ear"/>
++    <include name="*.klib"/>
++  </patternset>
++  <patternset id="compiler.resources">
++    <exclude name="**/?*.java"/>
++    <exclude name="**/?*.form"/>
++    <exclude name="**/?*.class"/>
++    <exclude name="**/?*.groovy"/>
++    <exclude name="**/?*.scala"/>
++    <exclude name="**/?*.flex"/>
++    <exclude name="**/?*.kt"/>
++    <exclude name="**/?*.clj"/>
++    <exclude name="**/?*.aj"/>
++  </patternset>
++  
++  <!-- JDK definitions -->
++  
++  <property name="jdk.bin.11" value="${jdk.home.11}/bin"/>
++  <path id="jdk.classpath.11">
++    <fileset dir="${jdk.home.11}">
++      <include name="../java-1.11.0-openjdk-amd64!/java.base"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.compiler"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.datatransfer"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.desktop"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.instrument"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.logging"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.management"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.management.rmi"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.naming"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.net.http"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.prefs"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.rmi"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.scripting"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.se"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.security.jgss"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.security.sasl"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.smartcardio"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.sql"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.sql.rowset"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.transaction.xa"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.xml"/>
++      <include name="../java-1.11.0-openjdk-amd64!/java.xml.crypto"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.accessibility"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.aot"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.attach"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.charsets"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.compiler"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.crypto.cryptoki"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.crypto.ec"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.dynalink"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.editpad"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.hotspot.agent"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.httpserver"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.internal.ed"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.internal.jvmstat"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.internal.le"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.internal.opt"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.internal.vm.ci"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.internal.vm.compiler"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.internal.vm.compiler.management"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.jartool"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.javadoc"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.jcmd"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.jconsole"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.jdeps"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.jdi"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.jdwp.agent"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.jfr"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.jlink"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.jshell"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.jsobject"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.jstatd"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.localedata"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.management"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.management.agent"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.management.jfr"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.naming.dns"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.naming.rmi"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.net"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.pack"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.rmic"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.scripting.nashorn"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.scripting.nashorn.shell"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.sctp"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.security.auth"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.security.jgss"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.unsupported"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.unsupported.desktop"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.xml.dom"/>
++      <include name="../java-1.11.0-openjdk-amd64!/jdk.zipfs"/>
++    </fileset>
++  </path>
++  
++  <property name="project.jdk.home" value="${jdk.home.11}"/>
++  <property name="project.jdk.bin" value="${jdk.bin.11}"/>
++  <property name="project.jdk.classpath" value="jdk.classpath.11"/>
++  
++  
++  <!-- Project Libraries -->
++  
++  <path id="library.kotlinjavaruntime.classpath">
++    <pathelement location="${path.variable.kotlin_bundled}/lib/kotlin-reflect.jar"/>
++    <pathelement location="${path.variable.kotlin_bundled}/lib/kotlin-stdlib-jdk7.jar"/>
++    <pathelement location="${path.variable.kotlin_bundled}/lib/kotlin-stdlib-jdk8.jar"/>
++    <pathelement location="${path.variable.kotlin_bundled}/lib/kotlin-stdlib.jar"/>
++    <pathelement location="${path.variable.kotlin_bundled}/lib/kotlin-test.jar"/>
++  </path>
++  <!-- Register Custom Compiler Taskdefs -->
++  <property name="javac2.home" value="${idea.home}/lib"/>
++  <path id="javac2.classpath">
++    <fileset dir="${javac2.home}">
++      <include name="javac2.jar"/>
++      <include name="jdom.jar"/>
++      <include name="asm-all*.jar"/>
++      <include name="forms-*.jar"/>
++    </fileset>
++  </path>
++  <target name="register.custom.compilers">
++    <taskdef name="javac2" classname="com.intellij.ant.Javac2" classpathref="javac2.classpath"/>
++    <taskdef name="instrumentIdeaExtensions" classname="com.intellij.ant.InstrumentIdeaExtensions" classpathref="javac2.classpath"/>
++  </target>
++  
++  <!-- Modules -->
++  
++  <import file="${basedir}/module_pierwyj_ewa7.xml"/>
++  
++  <target name="init" description="Build initialization">
++    <!-- Perform any build initialization in this target -->
++  </target>
++  
++  <target name="clean" depends="clean.module.pierwyj_ewa7" description="cleanup all"/>
++  
++  <target name="build.modules" depends="init, clean, compile.module.pierwyj_ewa7" description="build all modules"/>
++  
++  <target name="all" depends="build.modules" description="build all"/>
++</project>
+\ No newline at end of file

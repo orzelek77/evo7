@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidGradleBuildConfiguration">
+    <option name="SYNC_PROJECT_BEFORE_BUILD" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c39d0d7-98c5-48ed-9296-44915facfec1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pierwyj ewa7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/pierwaewa7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unnamed.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unnamed1.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unnamed2.patch" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DependenciesAnalyzeManager">
+    <option name="forwardDirection" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pierwyj ewa7" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="pierwyj ewa7" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.java" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WnWJSNePpOEDJ3msU46Bsr3tt2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="pierwyj_ewa7" />
+    <property name="Groovy.Last.Module.Chosen" value="pierwyj ewa7" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="/media/orzelek77ga/92E27345E2732D1B/dane z ubuntu lapek leny/orzelek77/Pobrane/ONE TOUCH EVO7 HD [E710] Android 4.1.1/Romtabdz copy" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="device.file.explorer" />
+  </component>
+  <component name="RunAnythingContextRecentDirectoryCache">
+    <option name="paths">
+      <recentPaths value="/media/orzelek77ga/92E27345E2732D1B/dane z ubuntu lapek leny/orzelek77/Pobrane/ONE TOUCH EVO7 HD [E710] Android 4.1.1/Romtabdz" />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",KOTLIN_SHOW_NON_PUBLIC" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c39d0d7-98c5-48ed-9296-44915facfec1" name="Default Changelist" comment="" />
+      <created>1579785768553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579785768553</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1579805922931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579805922931</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1579806232181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579806232181</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1580050529934</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580050529935</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1580051227418</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580051227418</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="266" width="621" height="551" key="#All_Tests" timestamp="1579804680056">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="528" y="266" width="621" height="551" key="#All_Tests/0.38.1680.1012@0.38.1680.1012" timestamp="1579804680056" />
+    <state x="640" y="352" width="432" height="380" key="#BuildArtifactsBeforeRunChooser" timestamp="1580248350945">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="640" y="352" width="432" height="380" key="#BuildArtifactsBeforeRunChooser/0.38.1680.1012@0.38.1680.1012" timestamp="1580248350945" />
+    <state x="435" y="205" width="808" height="673" key="#Dependency_Validation" timestamp="1579805377331">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="435" y="205" width="808" height="673" key="#Dependency_Validation/0.38.1680.1012@0.38.1680.1012" timestamp="1579805377331" />
+    <state x="435" y="205" width="808" height="673" key="#Kotlin" timestamp="1579805463720">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="435" y="205" width="808" height="673" key="#Kotlin/0.38.1680.1012@0.38.1680.1012" timestamp="1579805463720" />
+    <state x="435" y="205" width="808" height="673" key="#Notifications" timestamp="1580748534164">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="435" y="205" width="808" height="673" key="#Notifications/0.38.1680.1012@0.38.1680.1012" timestamp="1580748534164" />
+    <state x="435" y="205" width="828" height="673" key="#Project_Structure" timestamp="1579803820994">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="435" y="205" width="828" height="673" key="#Project_Structure/0.38.1680.1012@0.38.1680.1012" timestamp="1579803820994" />
+    <state x="395" y="232" width="887" height="619" key="#Unnamed" timestamp="1579804833720">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="395" y="232" width="887" height="619" key="#Unnamed/0.38.1680.1012@0.38.1680.1012" timestamp="1579804833720" />
+    <state x="298" y="202" width="1132" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580248464946">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="298" y="202" width="1132" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.38.1680.1012@0.38.1680.1012" timestamp="1580248464946" />
+    <state x="473" y="284" width="732" height="515" key="#com.intellij.ide.util.ExportDialog" timestamp="1579805384928">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="473" y="284" width="732" height="515" key="#com.intellij.ide.util.ExportDialog/0.38.1680.1012@0.38.1680.1012" timestamp="1579805384928" />
+    <state x="572" y="317" width="532" height="445" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1580051792205">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="572" y="317" width="532" height="445" key="#com.intellij.ide.util.PackageChooserDialog/0.38.1680.1012@0.38.1680.1012" timestamp="1580051792205" />
+    <state x="507" y="217" width="663" height="649" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1579804084545">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="507" y="217" width="663" height="649" key="#com.intellij.unscramble.UnscrambleDialog/0.38.1680.1012@0.38.1680.1012" timestamp="1579804084545" />
+    <state x="352" y="193" width="974" height="697" key="#pierwaewa7" timestamp="1580051801371">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="352" y="193" width="974" height="697" key="#pierwaewa7/0.38.1680.1012@0.38.1680.1012" timestamp="1580051801371" />
+    <state x="591" y="411" width="618" height="565" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580068618257">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="591" y="411" width="618" height="565" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.38.1680.1012@0.38.1680.1012" timestamp="1580068618257" />
+    <state x="454" y="138" width="769" height="807" key="CommitChangelistDialog2" timestamp="1580051227461">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="454" y="138" width="769" height="807" key="CommitChangelistDialog2/0.38.1680.1012@0.38.1680.1012" timestamp="1580051227461" />
+    <state x="240" y="158" width="1200" height="772" key="DiffContextDialog" timestamp="1580748474529">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="240" y="158" width="1200" height="772" key="DiffContextDialog/0.38.1680.1012@0.38.1680.1012" timestamp="1580748474529" />
+    <state x="623" y="302" width="584" height="480" key="FileChooserDialogImpl" timestamp="1580248454232">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="623" y="302" width="584" height="480" key="FileChooserDialogImpl/0.38.1680.1012@0.38.1680.1012" timestamp="1580248454232" />
+    <state x="668" y="434" width="341" height="215" key="Github.ShareDialog" timestamp="1580248618531">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="668" y="434" width="341" height="215" key="Github.ShareDialog/0.38.1680.1012@0.38.1680.1012" timestamp="1580248618531" />
+    <state x="601" y="250" width="476" height="584" key="Github.UntrackedFilesDialog" timestamp="1580248642005">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="601" y="250" width="476" height="584" key="Github.UntrackedFilesDialog/0.38.1680.1012@0.38.1680.1012" timestamp="1580248642005" />
+    <state width="672" height="311" key="GridCell.Tab.0.bottom" timestamp="1579806847827">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state width="672" height="311" key="GridCell.Tab.0.bottom/0.38.1680.1012@0.38.1680.1012" timestamp="1579806847827" />
+    <state width="672" height="311" key="GridCell.Tab.0.center" timestamp="1579806847824">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state width="672" height="311" key="GridCell.Tab.0.center/0.38.1680.1012@0.38.1680.1012" timestamp="1579806847824" />
+    <state width="672" height="311" key="GridCell.Tab.0.left" timestamp="1579806847823">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state width="672" height="311" key="GridCell.Tab.0.left/0.38.1680.1012@0.38.1680.1012" timestamp="1579806847823" />
+    <state width="672" height="311" key="GridCell.Tab.0.right" timestamp="1579806847826">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state width="672" height="311" key="GridCell.Tab.0.right/0.38.1680.1012@0.38.1680.1012" timestamp="1579806847826" />
+    <state width="672" height="311" key="GridCell.Tab.1.bottom" timestamp="1579806847830">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state width="672" height="311" key="GridCell.Tab.1.bottom/0.38.1680.1012@0.38.1680.1012" timestamp="1579806847830" />
+    <state width="672" height="311" key="GridCell.Tab.1.center" timestamp="1579806847828">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state width="672" height="311" key="GridCell.Tab.1.center/0.38.1680.1012@0.38.1680.1012" timestamp="1579806847828" />
+    <state width="672" height="311" key="GridCell.Tab.1.left" timestamp="1579806847828">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state width="672" height="311" key="GridCell.Tab.1.left/0.38.1680.1012@0.38.1680.1012" timestamp="1579806847828" />
+    <state width="672" height="311" key="GridCell.Tab.1.right" timestamp="1579806847829">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state width="672" height="311" key="GridCell.Tab.1.right/0.38.1680.1012@0.38.1680.1012" timestamp="1579806847829" />
+    <state x="336" y="179" width="1032" height="841" key="SettingsEditor" timestamp="1580249153894">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="336" y="179" width="1032" height="841" key="SettingsEditor/0.38.1680.1012@0.38.1680.1012" timestamp="1580249153894" />
+    <state x="505" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1580748378466">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="505" y="371" key="com.intellij.ide.util.TipDialog/0.38.1680.1012@0.38.1680.1012" timestamp="1580748378466" />
+    <state x="618" y="463" width="514" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580748743374">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="618" y="463" width="514" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.38.1680.1012@0.38.1680.1012" timestamp="1580748743374" />
+    <state x="491" y="119" width="697" height="849" key="find.popup" timestamp="1579804051082">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="491" y="119" width="697" height="849" key="find.popup/0.38.1680.1012@0.38.1680.1012" timestamp="1579804051082" />
+    <state x="591" y="376" width="497" height="332" key="git4idea.ui.GitUnstashDialog" timestamp="1579805852993">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="591" y="376" width="497" height="332" key="git4idea.ui.GitUnstashDialog/0.38.1680.1012@0.38.1680.1012" timestamp="1579805852993" />
+    <state x="500" y="250" key="run.anything.popup" timestamp="1580068780918">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="500" y="250" key="run.anything.popup/0.38.1680.1012@0.38.1680.1012" timestamp="1580068780918" />
+    <state x="503" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1580248886802">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="503" y="270" width="672" height="678" key="search.everywhere.popup/0.38.1680.1012@0.38.1680.1012" timestamp="1580248886802" />
+    <state x="399" y="217" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1580068941464">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="399" y="217" key="vcs.ApplyPatchDifferentiatedDialog/0.38.1680.1012@0.38.1680.1012" timestamp="1580068941464" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pierwyj_ewa7$pierwaewa7.ic" NAME="pierwaewa7 Coverage Results" MODIFIED="1580748588614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/pierwyj_ewa7$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1579805295043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
